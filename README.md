@@ -1,1 +1,3 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2022.
+### Some records of doing homework about CS231n in 2022
+
+update assignment1 2023-11-9
